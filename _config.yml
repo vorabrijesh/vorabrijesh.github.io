@@ -11,7 +11,7 @@ title                    : "Brijesh Vora"
 title_separator          : "-"
 name                     : &name "Brijesh Vora"
 description              : &description "personal description"
-url                      : https://vorabrijesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://vorabrijesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vorabrijesh/vorabrijesh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/brijesh-vora"
+  linkedin         : "brijesh-vora"
   orcid            : 
   pinterest        :
   soundcloud       :
