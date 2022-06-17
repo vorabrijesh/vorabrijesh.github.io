@@ -10,13 +10,18 @@ redirect_from:
 
 Welcome to my Website!
 
-I am currently pursuing pursuing MS in CS from University of California, Davis. I am fortunate to be advised by Dr. Chen-Nee-Chuah and Dr. Zubair Shafiq.  I did B.Tech from Indian Institute of Technology (IIT), Tirupati in Computer Science. I am co-founder of vAnalytix - vehicle health monitoring system. 
+I am currently pursuing pursuing MS in CS from University of California, Davis. I am fortunate to be advised by Dr. Chen-Nee-Chuah and Dr. Zubair Shafiq.  I did B.Tech from Indian Institute of Technology (IIT), Tirupati in Computer Science. I am co-founder of vAnalytix - Vehicle health monitoring system. 
 
 🔭 I’m currently working on Vehicle Health Monitoring System, Multi Party Computation(MPC) and Privacy Preserving Machine Learning(PPML).
+
 🌱 I’m currently learning Machine Learning, Security, Algorithms.
+
 👯 I’m looking to collaborate on Systems/Security or Machine Learning.
+
 💬 Ask me about Movies/TV Shows, Tech, Cricket, Chess.
+
 📫 How to reach me: firstname dot lastname12 at gmail dot com
+
 😄 Pronouns: He/Him
 
 <!-- 
