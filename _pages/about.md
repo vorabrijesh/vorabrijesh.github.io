@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my Website!
 
-I am currently pursuing pursuing Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/). I am fortunate to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html) and [Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/).  I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp.ac.in/) in Computer Science. I am co-founder of vAnalytix - Vehicle health monitoring system. 
+I am currently pursuing pursuing Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/). I am fortunate to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html) and [Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/).  I am co-founder of vAnalytix - Your Vehicle analysed on the road. I’m currently working on Vehicle Health Monitoring System, Multi Party Computation(MPC) and Privacy Preserving Machine Learning(PPML).
 
-🔭 I’m currently working on Vehicle Health Monitoring System, Multi Party Computation(MPC) and Privacy Preserving Machine Learning(PPML).
+I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp.ac.in/) in Computer Science. I am fortunate to be advised by [Dr. Kalidas Yeturu](https://iittp.ac.in/dr-kalidas-yeturu). My undergraduate thesis was [A Novel Workflow Architecture based on Flow Mutation and Rendering As A Service](http://vorabrijesh.github.io/files/BTPReportSigned.pdf), where I developed the workflow management system for the academics of IIT Tirupati as a part of the NM-ICPS TIH initiative which processed TA/RA jobs, Course Registration and Course Add Drop Efficiently.
 
 🌱 I’m currently learning Machine Learning, Security, Algorithms.
 
@@ -26,7 +26,11 @@ I am currently pursuing pursuing Master's in [Computer Science](https://cs.ucdav
 
 <h2 id="updates">Updates</h2>
 <ul>
-<li> <strong>04/20/2022:</strong> Gave a presentation about vAnalytics at UC Davis in a VC Meeting.</li>
+<li> <strong>04/20/2022:</strong> Gave a presentation about vAnalytix at UC Davis in a VC Meeting.</li>
+<li> <strong>04/20/2022:</strong> Received GGCS (Graduate Group in Computer Science) award for Outstanding contribution in GGCS StartUp Club.</li>
+<li> <strong>09/21/2021:</strong> Started MS at UC Davis</li>
+<li> <strong>06/15/2021:</strong>Graduated from IIT Tirupati </li>
+<li> <strong>May'20 - July'20:</strong>Research Intern at IIT Tirupati</li>
 </ul>
 
 <!-- 
