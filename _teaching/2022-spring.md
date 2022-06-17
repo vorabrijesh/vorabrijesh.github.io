@@ -9,8 +9,8 @@ date: 2022-03-28
 location: "Davis, CA"
 ---
 
- - Conducted Discussion sessions to guide students to solve worksheets and practice problems.
- - Conducted office hours to solve the difficulties of the students and also graded the students based on the rubric.
+ <!-- - Conducted Discussion sessions to guide students to solve worksheets and practice problems.
+ - Conducted office hours to solve the difficulties of the students and also graded the students based on the rubric. -->
 
 
 

@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my Website!
 
-I am currently pursuing pursuing MS in CS from University of California, Davis. I am fortunate to be advised by Dr. Chen-Nee-Chuah and Dr. Zubair Shafiq.  I did B.Tech from Indian Institute of Technology (IIT), Tirupati in Computer Science. I am co-founder of vAnalytix - Vehicle health monitoring system. 
+I am currently pursuing pursuing Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/). I am fortunate to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html) and [Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/).  I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp.ac.in/) in Computer Science. I am co-founder of vAnalytix - Vehicle health monitoring system. 
 
 🔭 I’m currently working on Vehicle Health Monitoring System, Multi Party Computation(MPC) and Privacy Preserving Machine Learning(PPML).
 
@@ -23,6 +23,11 @@ I am currently pursuing pursuing MS in CS from University of California, Davis. 
 📫 How to reach me: firstname dot lastname12 at gmail dot com
 
 😄 Pronouns: He/Him
+
+<h2 id="updates">Updates</h2>
+<ul>
+<li> <strong>04/20/2022:</strong> Gave a presentation about vAnalytics at UC Davis in a VC Meeting.</li>
+</ul>
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
