@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my Website!
 
-I am currently pursuing pursuing Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/). I am fortunate to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html).  I am co-founder of vAnalytix - Your Vehicle analysed on the road. I’m currently working on Vehicle Health Monitoring System.
+I am currently pursuing pursuing Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/). I am fortunate to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html). 
 
 I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp.ac.in/) in Computer Science. I am fortunate to be advised by [Dr. Kalidas Yeturu](https://iittp.ac.in/dr-kalidas-yeturu). My undergraduate thesis was [A Novel Workflow Architecture based on Flow Mutation and Rendering As A Service](http://vorabrijesh.github.io/files/BTPReportSigned.pdf), where I developed the workflow management system for the academics of IIT Tirupati as a part of the NM-ICPS TIH initiative which processed TA/RA jobs, Course Registration and Course Add Drop Efficiently.
 
@@ -26,6 +26,9 @@ I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp
 
 <h2 id="updates">Updates</h2>
 <ul>
+ <li><strong> Jun 2023: </strong> Started as Software Engineer at Sailpoint technologies. </li>
+  <li><strong> Jun 2023: </strong> Graduated with MS from UC Davis. </li>
+  <li> <strong> Jun 2023: </strong> Workshop paper at 2nd advMl Frontiers, ICML 2023 got published. [Paper](http://vorabrijesh.github.io/files/Benchmarking_Pruned_Adversarially_Robust_Neural_Networks.pdf) </li>
  <li> <strong>Jun- Sept 2022:</strong> Interned at Ennetix, Inc. Worked on Network Security, developed zeek plugin and worked on Unsupervised machine clustering. </li>
 <li> <strong>Apr 2022:</strong> Gave a presentation about vAnalytix at UC Davis in a VC Meeting.</li>
 <li> <strong>Apr 2022:</strong> Received GGCS (Graduate Group in Computer Science) award for Outstanding contribution in GGCS StartUp Club.</li>
