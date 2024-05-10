@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "brijesh__vora"
+  twitter          : "brijesh__vora09"
   vine             :
   weibo            :
   xing             :
@@ -209,7 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+#  _teaching
   - scope:
       path: ""
       type: teaching

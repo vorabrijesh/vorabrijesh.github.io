@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my Website!
 
-I am currently Software Engineer in MLOps team at Sailpoint Technologies in Austin, TX. Previously Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/). I was fortunate enough to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html).
+I am a Software Engineer in MLOps team at Sailpoint Technologies in Austin, TX. Previously Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/). I was fortunate enough to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html).
 
 I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp.ac.in/) in Computer Science advised by [Dr. Kalidas Yeturu](https://iittp.ac.in/dr-kalidas-yeturu). My undergraduate thesis was [A Novel Workflow Architecture based on Flow Mutation and Rendering As A Service](http://vorabrijesh.github.io/files/BTPReportSigned.pdf), where I developed the workflow management system for the academics of IIT Tirupati as a part of the NM-ICPS TIH initiative which processed TA/RA jobs, Course Registration and Course Add Drop Efficiently.
 
@@ -18,7 +18,7 @@ I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp
 
 👯 I’m looking to collaborate on Systems/Security or Machine Learning.
 
-♔ Hobbies - Tech, watching Cricket, Chess, Gym, Hiking. Also reading and keeping upto date with the new and latest tech or research paper.
+♔ Hobbies - Tech, Watching Cricket, Chess, Gym, Hiking. Also reading and keeping upto date with the new and latest tech or research paper.
 
 💬 Ask me about Movies/TV Shows, Tech, Cricket, Chess.
 

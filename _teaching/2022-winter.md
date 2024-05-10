@@ -8,6 +8,3 @@ venue: "UC Davis, Department of Mathematics"
 date: 2022-01-03
 location: "Davis, CA"
 ---
-
-
-
