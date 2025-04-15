@@ -28,6 +28,7 @@ I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp
 
 <h2 id="updates">Updates</h2>
 <ul>
+ <li><strong> Jun 2024: </strong> Promoted to Machine Learning Engineer III. </li>
  <li><strong> Jun 2023: </strong> Started as Software Engineer at Sailpoint technologies. </li>
   <li><strong> Jun 2023: </strong> Graduated with MS from UC Davis. </li>
   <li> <strong> Jun 2023: </strong> Workshop paper at 2nd advMl Frontiers, ICML 2023 got published. [Paper](http://vorabrijesh.github.io/files/Benchmarking_Pruned_Adversarially_Robust_Neural_Networks.pdf) </li>
