@@ -37,7 +37,7 @@
 
 {% if page.url == "/" %}
 <link href="https://fonts.googleapis.com/css?family=Lora:400,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{{ base_path }}/assets/css/home.css">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/home.css?v={{ site.time | date: "%s" }}">
 {% endif %}
 
 <!-- end custom head snippets -->
