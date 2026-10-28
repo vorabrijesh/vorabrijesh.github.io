@@ -1,7 +1,7 @@
 ---
-title: "Benchmarking pruned adversarially robust neural networks"
+title: "Benchmarking adversarial robustness of compressed deep learning models"
 excerpt: "Workshop paper at the 2nd advML Frontiers workshop, ICML 2023."
 collection: portfolio
 ---
 
-[Read the paper](https://vorabrijesh.github.io/files/Benchmarking_Pruned_Adversarially_Robust_Neural_Networks.pdf).
+[Read the paper on arXiv](https://arxiv.org/abs/2308.08160).
