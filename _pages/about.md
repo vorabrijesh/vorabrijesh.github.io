@@ -14,7 +14,7 @@ redirect_from:
 
 **ML Engineer at [Corelight](https://corelight.com/) working on machine learning for network security.**
 
-At Corelight I develop, maintain, and monitor ML models for network security, automate model training and inference, and optimize the feature and log ingestion pipelines. My research includes [Private Aggregate Queries to Untrusted Databases](https://arxiv.org/abs/2403.13296) (arXiv 2024) and [Benchmarking Pruned Adversarially Robust Neural Networks](/publication/2023-06-icml2023) (ICML 2023 workshop).
+At Corelight I develop, maintain, and monitor ML models for network security, automate model training and inference, and optimize the feature and log ingestion pipelines. My research includes [Private Aggregate Queries to Untrusted Databases](https://arxiv.org/abs/2403.13296) (arXiv 2024) and [Benchmarking Adversarial Robustness of Compressed Deep Learning Models](https://arxiv.org/abs/2308.08160) (ICML 2023 workshop).
 
 Before Corelight, I was a Machine Learning Engineer III on the MLOps team at SailPoint Technologies (2023–2025).
 
@@ -30,8 +30,8 @@ I'm currently exploring adversarial robustness, privacy, AI agents, and machine 
 ## Selected work
 
 - [Private Aggregate Queries to Untrusted Databases](https://arxiv.org/abs/2403.13296), arXiv 2024
-- [Benchmarking Pruned Adversarially Robust Neural Networks](/publication/2023-06-icml2023), ICML 2023 workshop paper
-- [Projects](/portfolio/): a workflow management system for IIT Tirupati and network security tooling at Ennetix
+- [Benchmarking Adversarial Robustness of Compressed Deep Learning Models](https://arxiv.org/abs/2308.08160), ICML 2023 workshop paper
+- [Projects](/projects/): a workflow management system for IIT Tirupati and network security tooling at Ennetix
 
 ## Updates
 
