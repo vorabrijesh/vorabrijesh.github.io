@@ -54,6 +54,7 @@ a:hover {
 }
 
 .site-header {
+  position: relative;
   min-height: 55.95px;
   border-bottom: 1px solid #e8e8e8;
 }
