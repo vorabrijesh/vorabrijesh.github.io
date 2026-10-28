@@ -10,13 +10,15 @@ redirect_from:
 
 Welcome to my Website!
 
-I am a Software Engineer in MLOps team at Sailpoint Technologies in Austin, TX. Previously Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/). I was fortunate enough to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html).
+I am a Machine Learning Engineer at [Corelight](https://corelight.com/) in Austin, TX, where I work on machine learning for network security. Previously, I was a Machine Learning Engineer III on the MLOps team at SailPoint Technologies (2023-2025).
+
+I earned my Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/), where I was fortunate enough to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html).
 
 I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp.ac.in/) in Computer Science advised by [Dr. Kalidas Yeturu](https://iittp.ac.in/dr-kalidas-yeturu). My undergraduate thesis was [A Novel Workflow Architecture based on Flow Mutation and Rendering As A Service](http://vorabrijesh.github.io/files/BTPReportSigned.pdf), where I developed the workflow management system for the academics of IIT Tirupati as a part of the NM-ICPS TIH initiative which processed TA/RA jobs, Course Registration and Course Add Drop Efficiently.
 
-🌱 I’m currently learning Machine Learning Operations, Security, DevOps.
+🌱 I’m currently exploring adversarial robustness, privacy, AI agents, and machine learning for network security.
 
-👯 I’m looking to collaborate on Systems/Security or Machine Learning.
+👯 I’m looking to collaborate on Machine Learning, Security, or Systems research.
 
 ♔ Hobbies - Tech, Watching Cricket, Chess, Gym, Hiking. Also reading and keeping upto date with the new and latest tech or research paper.
 
@@ -28,6 +30,10 @@ I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp
 
 <h2 id="updates">Updates</h2>
 <ul>
+ <li><strong> Sep 2026: </strong> Reviewed papers for the NeurIPS 2026 Agents in the Wild workshop. </li>
+ <li><strong> Jun 2026: </strong> Reviewed papers for the ICML 2026 workshops (SD4H, AIWILD, AI4GOOD). </li>
+ <li><strong> Feb 2026: </strong> Became a member of Sigma Xi, The Scientific Research Honor Society. </li>
+ <li><strong> Jun 2025: </strong> Started as Machine Learning Engineer at Corelight. </li>
  <li><strong> Jun 2024: </strong> Promoted to Machine Learning Engineer III. </li>
  <li><strong> Jun 2023: </strong> Started as Software Engineer at Sailpoint technologies. </li>
   <li><strong> Jun 2023: </strong> Graduated with MS from UC Davis. </li>

@@ -7,7 +7,16 @@ redirect_from:
   - http://vorabrijesh.github.io/files/Brijesh_Vora_Resume.pdf
 ---
 
-[Resume](/files/Brijesh-Vora-FlowCV-Resume-20240713.pdf)
+[Resume](/files/Brijesh_Vora_FlowCV_Resume_2026-03-06.pdf)
+
+## Peer Review
+
+* Workshop Reviewer, ICML 2026 (Jun 2026): SD4H, AIWILD, and AI4GOOD workshops
+* Workshop Reviewer, NeurIPS 2026 (Sep 2026): Agents in the Wild workshop
+
+## Memberships
+
+* Member, Sigma Xi, The Scientific Research Honor Society (Feb 2026)
 
 <!--
 {% include base_path %}
