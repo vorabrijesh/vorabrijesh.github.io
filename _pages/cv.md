@@ -7,7 +7,7 @@ redirect_from:
   - http://vorabrijesh.github.io/files/Brijesh_Vora_Resume.pdf
 ---
 
-[Resume](/files/Brijesh-Vora-FlowCV-Resume-20240713.pdf)
+[Resume](/files/Brijesh_Vora_FlowCV_Resume_2026-03-06.pdf)
 
 <!--
 {% include base_path %}

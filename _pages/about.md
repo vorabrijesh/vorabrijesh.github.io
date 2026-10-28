@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my Website!
 
-I am a Machine Learning Engineer at [Corelight](https://corelight.com/) in Austin, TX, where I work on machine learning for network security. Previously, I was a Machine Learning Engineer III on the MLOps team at SailPoint Technologies. I am also pursuing a Doctor of Business Administration (DBA) at Westcliff University.
+I am a Machine Learning Engineer at [Corelight](https://corelight.com/) in Austin, TX, where I work on machine learning for network security. Previously, I was a Machine Learning Engineer III on the MLOps team at SailPoint Technologies (2023-2025).
 
 I earned my Master's in [Computer Science](https://cs.ucdavis.edu/) from [University of California, Davis](https://www.ucdavis.edu/), where I was fortunate enough to be advised by [Dr. Chen-Nee-Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html).
 
@@ -30,6 +30,7 @@ I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp
 
 <h2 id="updates">Updates</h2>
 <ul>
+ <li><strong> Jun 2025: </strong> Started as Machine Learning Engineer at Corelight. </li>
  <li><strong> Jun 2024: </strong> Promoted to Machine Learning Engineer III. </li>
  <li><strong> Jun 2023: </strong> Started as Software Engineer at Sailpoint technologies. </li>
   <li><strong> Jun 2023: </strong> Graduated with MS from UC Davis. </li>
