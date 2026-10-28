@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/profile.jpg" alt="Brijesh Vora" style="float: right; width: 180px; margin: 0 0 1em 1em; border-radius: 50%;">
+<img src="/images/profile.jpg" alt="Brijesh Vora" style="float: right; width: 260px; margin: 0 0 1em 1em; border-radius: 50%;">
 
 **ML Engineer at [Corelight](https://corelight.com/) working on machine learning for network security.**
 
