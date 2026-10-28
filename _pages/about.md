@@ -10,17 +10,22 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/profile.jpg" alt="Brijesh Vora" style="float: right; width: 180px; margin: 0 0 1em 1em;">
+<img src="/images/profile.jpg" alt="Brijesh Vora" style="float: right; width: 180px; margin: 0 0 1em 1em; border-radius: 50%;">
 
 **ML Engineer at [Corelight](https://corelight.com/) working on machine learning for network security.**
 
-I earned my Master's in [Computer Science](https://cs.ucdavis.edu/) from [UC Davis](https://www.ucdavis.edu/), where I was advised by [Dr. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html). I did my B.Tech in Computer Science at [IIT Tirupati](https://iittp.ac.in/), advised by [Dr. Kalidas Yeturu](https://iittp.ac.in/dr-kalidas-yeturu), where my [thesis](https://vorabrijesh.github.io/files/BTPReportSigned.pdf) was a workflow architecture based on flow mutation and rendering as a service.
+At Corelight I develop, maintain, and monitor ML models for network security, automate model training and inference, and optimize the feature and log ingestion pipelines. My research includes [Private Aggregate Queries to Untrusted Databases](https://arxiv.org/abs/2403.13296) (arXiv 2024) and [Benchmarking Pruned Adversarially Robust Neural Networks](/publication/2023-06-icml2023) (ICML 2023 workshop).
 
 Before Corelight, I was a Machine Learning Engineer III on the MLOps team at SailPoint Technologies (2023–2025).
 
 I'm currently exploring adversarial robustness, privacy, AI agents, and machine learning for network security.
 
 **I'm looking to collaborate** on machine learning, security, or systems research. Reach out by [email](mailto:brijesh.vora12@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/brijesh-vora).
+
+## Education
+
+- **M.S. in [Computer Science](https://cs.ucdavis.edu/)**, [UC Davis](https://www.ucdavis.edu/), 2023. Advisor: [Dr. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/index.html).
+- **B.Tech in Computer Science**, [IIT Tirupati](https://iittp.ac.in/), 2021. Advisor: [Dr. Kalidas Yeturu](https://iittp.ac.in/dr-kalidas-yeturu).
 
 ## Selected work
 

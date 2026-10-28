@@ -35,4 +35,9 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+{% if page.url == "/" %}
+<link href="https://fonts.googleapis.com/css?family=Lora:400,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/home.css">
+{% endif %}
+
 <!-- end custom head snippets -->
