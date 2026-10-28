@@ -30,6 +30,9 @@ I did B.Tech from [Indian Institute of Technology (IIT), Tirupati](https://iittp
 
 <h2 id="updates">Updates</h2>
 <ul>
+ <li><strong> Sep 2026: </strong> Reviewed papers for the NeurIPS 2026 Agents in the Wild workshop. </li>
+ <li><strong> Jun 2026: </strong> Reviewed papers for the ICML 2026 workshops (SD4H, AIWILD, AI4GOOD). </li>
+ <li><strong> Feb 2026: </strong> Became a member of Sigma Xi, The Scientific Research Honor Society. </li>
  <li><strong> Jun 2025: </strong> Started as Machine Learning Engineer at Corelight. </li>
  <li><strong> Jun 2024: </strong> Promoted to Machine Learning Engineer III. </li>
  <li><strong> Jun 2023: </strong> Started as Software Engineer at Sailpoint technologies. </li>
