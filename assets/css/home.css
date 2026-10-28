@@ -1,7 +1,7 @@
 /*
  * Homepage only (see _layouts/home.html and _includes/head/custom.html).
- * Lora 16px/1.5 body, 770px content width, 26px site title on a 54px header row,
- * 42px page title, 32px and 26px section headings.
+ * Lora 16px/1.5 body, 785px content column, 26px site title on a 56px header row,
+ * #4d74eb links, #e8e8e8 header and footer rules, 42px page title, 32px and 26px headings.
  */
 
 body {
@@ -17,6 +17,16 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
+a {
+  color: #4d74eb;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #111;
+  text-decoration: underline;
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -30,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wrapper {
-  max-width: 770px;
+  max-width: 815px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 15px;
@@ -43,18 +53,23 @@ h1, h2, h3, h4, h5, h6 {
   clear: both;
 }
 
+.site-header {
+  min-height: 55.95px;
+  border-bottom: 1px solid #e8e8e8;
+}
+
 .site-title {
   float: left;
   font-size: 26px;
   font-weight: 400;
-  line-height: 54px;
+  line-height: 55.95px;
   color: #424242;
   text-decoration: none;
 }
 
 .site-nav {
   float: right;
-  line-height: 54px;
+  line-height: 55.95px;
   position: relative;
 }
 
@@ -89,9 +104,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-footer {
-  padding: 20px 0 40px;
-  font-size: 14px;
-  color: #424242;
+  padding: 30px 0;
+  border-top: 1px solid #e8e8e8;
+  font-size: 15px;
+  color: #828282;
+}
+
+.footer-col-1 {
+  float: left;
+  width: 35%;
+}
+
+.footer-col-2 {
+  float: left;
+  width: 60%;
 }
 
 .social-links {
@@ -101,12 +127,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .social-links li {
-  display: inline-block;
-  margin-right: 20px;
+  margin-bottom: 5px;
 }
 
 .social-links a {
-  color: #111;
+  color: #4d74eb;
+}
+
+.footer-col-2 p {
+  margin: 0;
 }
 
 @media screen and (max-width: 600px) {
@@ -156,6 +185,12 @@ h1, h2, h3, h4, h5, h6 {
 
   .site-nav .page-link:not(:last-child) {
     margin-right: 0;
+  }
+
+  .footer-col-1,
+  .footer-col-2 {
+    float: none;
+    width: 100%;
   }
 
   .post-content h2 {
