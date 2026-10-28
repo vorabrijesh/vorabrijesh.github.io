@@ -1,6 +1,7 @@
 /*
- * Homepage only (linked from _includes/head/custom.html when page.url is "/").
- * Matches huyenchip.com: Lora, 16px/1.5 body, ~770px reading column.
+ * Homepage only (see _layouts/home.html and _includes/head/custom.html).
+ * Lora 16px/1.5 body, 770px content width, 26px site title on a 54px header row,
+ * 42px page title, 32px and 26px section headings.
  */
 
 body {
@@ -11,59 +12,157 @@ body {
   background-color: #fdfdfd;
 }
 
-h1, h2, h3, h4, h5, h6,
-.page__content,
-.page__title {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Lora", serif;
+  font-weight: 400;
 }
 
-.masthead__inner-wrap,
-#main {
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+  white-space: nowrap;
+}
+
+.wrapper {
   max-width: 770px;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
-.masthead__menu-item--lg a {
+.wrapper:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.site-title {
+  float: left;
   font-size: 26px;
   font-weight: 400;
+  line-height: 54px;
   color: #424242;
+  text-decoration: none;
 }
 
-.masthead__menu-item a {
-  font-size: 16px;
+.site-nav {
+  float: right;
+  line-height: 54px;
+  position: relative;
+}
+
+.site-nav .nav-trigger,
+.site-nav label[for="nav-trigger"] {
+  display: none;
+}
+
+.site-nav .page-link {
   color: #111;
+  line-height: 1.5;
+  text-decoration: none;
 }
 
-.masthead__menu-item:not(:last-child) {
+.site-nav .page-link:not(:last-child) {
   margin-right: 20px;
 }
 
-.page__title {
-  font-size: 42px;
-  font-weight: 400;
-  letter-spacing: -1px;
-  line-height: 1;
+.post-content {
+  margin-top: 40px;
+  margin-bottom: 30px;
 }
 
-.page__content h2 {
+.post-content h2 {
   font-size: 32px;
+  margin: 1.2em 0 0.5em;
 }
 
-.page__content h3 {
+.post-content h3 {
   font-size: 26px;
+  margin: 1em 0 0.5em;
 }
 
-@media screen and (max-width: 800px) {
-  .page__title {
-    font-size: 36px;
+.site-footer {
+  padding: 20px 0 40px;
+  font-size: 14px;
+  color: #424242;
+}
+
+.social-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.social-links li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.social-links a {
+  color: #111;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    background-color: #fdfdfd;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    text-align: right;
   }
 
-  .page__content h2 {
+  .site-nav label[for="nav-trigger"] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+  }
+
+  .site-nav .menu-icon {
+    display: block;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  .site-nav .trigger {
+    display: none;
+    clear: both;
+  }
+
+  .site-nav .nav-trigger:checked ~ .trigger {
+    display: block;
+    padding-bottom: 5px;
+  }
+
+  .site-nav .page-link {
+    display: block;
+    padding: 5px 10px;
+    margin-left: 20px;
+  }
+
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 0;
+  }
+
+  .post-content h2 {
     font-size: 28px;
   }
 
-  .page__content h3 {
+  .post-content h3 {
     font-size: 22px;
   }
 }

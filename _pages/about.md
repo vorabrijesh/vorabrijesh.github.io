@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 permalink: /
 title: "Brijesh Vora"
 excerpt: "ML Engineer at Corelight working on machine learning for network security."
