@@ -162,7 +162,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - wrangler.jsonc
 keep_files:
   - .git
   - .svn
