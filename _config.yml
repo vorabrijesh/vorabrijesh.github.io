@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brijesh Vora"
 title_separator          : "-"
 name                     : &name "Brijesh Vora"
-description              : &description "personal description"
+description              : &description "Brijesh Vora - Machine Learning Engineer in network security. Interests: adversarial robustness, privacy, AI agents."
 url                      :  https://vorabrijesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vorabrijesh/vorabrijesh.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Brijesh Vora"
   avatar           : "profile.jpg"
-  bio              : "MLE III @Sailpoint | MSCS @ UC Davis | B. Tech CS @ IIT Tirupati"
+  bio              : "ML Engineer @ Corelight | DBA @ Westcliff University | MSCS @ UC Davis | B.Tech CS @ IIT Tirupati"
   location         : "Austin, TX"
-  employer         :
+  employer         : "Corelight"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TbhHeHIAAAAJ&hl=en"
   email            : 
