@@ -9,6 +9,11 @@ redirect_from:
 
 [Resume](/files/Brijesh_Vora_FlowCV_Resume_2026-03-06.pdf)
 
+## Peer Review
+
+* Workshop Reviewer, ICML 2026: SD4H, AIWILD, and AI4GOOD workshops
+* Workshop Reviewer, NeurIPS 2026: Agents in the Wild workshop
+
 <!--
 {% include base_path %}
 
